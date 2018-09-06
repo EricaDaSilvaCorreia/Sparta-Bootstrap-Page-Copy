@@ -120,9 +120,9 @@ body {
   padding-bottom: 15px;
 }
 .grid-item {
-  /* background-color: #7D4E57; */
-  /* border: 2px solid #D66853; */
-  /* padding: 70px; */
+  background-color: #7D4E57;
+  border: 2px solid #D66853;
+  padding: 70px;
   padding-left: 3px;
   padding-right: -30px;
   height: 209px;
@@ -131,6 +131,7 @@ body {
   text-align: center;
   color: white;
   box-sizing: border-box;
+  position: sticky;
 }
 
  .col-md-3 .col-xs-6 .col-sm-6 .grid-item img{
