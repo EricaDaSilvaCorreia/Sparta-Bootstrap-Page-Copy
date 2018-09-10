@@ -1,8 +1,8 @@
-#Volume Network Page Copy 
+#Volume Network Page Copy
 
 **By : Erica P da Silva Correia**
 
-####Work description : 
+####Work description :
 
 Copy the Volume Network page, change the color pallette but preserve the proportions of the sections.
 
@@ -20,12 +20,12 @@ The main challenges I faced with this asignment were: **editing the carousel**, 
 
 -
 
-**Grid** : the grid was a bit difficult in the sense that it would not respond the way I wanted it to. it looked fine when the page was at full size but as I shrunk it down to different sizes it wouldn't go from 2 rows to 2 columns like the original site did. 
+**Grid** : the grid was a bit difficult in the sense that it would not respond the way I wanted it to. it looked fine when the page was at full size but as I shrunk it down to different sizes it wouldn't go from 2 rows to 2 columns like the original site did.
 
 After inspecting the site to better understand how the original site was built and trying different ways, using css grid and just using bootstrap rows and columns, I decided to go with the bootstrap approach because it gave me a grid that behaved almost like the actual grid on the site.
 
 -
-**Form** : my main struggle with the form was that I couldn't get the input field for the phone number to align with the other fields. 
+**Form** : my main struggle with the form was that I couldn't get the input field for the phone number to align with the other fields.
 
 I tried different approaches before I realised that my column class was wrong and that I needed to adjust my margins as well (See Below)
 
@@ -39,11 +39,12 @@ Overall I'm very pleased with the end product. I did struggle a little with the 
 
 #####Github links :
 
-Repository : 
+Repository :
 [**https://github.com/EricaDaSilvaCorreia/Sparta-Bootstrap-PageCopy**](https://github.com/EricaDaSilvaCorreia/Sparta-Bootstrap-PageCopy)
 
 
 and click clone or download and choose preffered method of download.
 
 
-Live page :
+Live page : [https://ericadasilvacorreia.github.io/Sparta-Bootstrap-PageCopy/]
+(https://ericadasilvacorreia.github.io/Sparta-Bootstrap-PageCopy/)
